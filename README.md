@@ -1,6 +1,6 @@
 # Quick AI — Generative AI Workspace
 
-**Customized by Sandeep Patra** · React · Tailwind CSS · Node.js · Express · Neon PostgreSQL · Cloudinary · Clerk
+** Sandeep Patra** · React · Tailwind CSS · Node.js · Express · Neon PostgreSQL · Cloudinary · Clerk
 
 Quick AI brings text generation, image creation and image-editing workflows into one authenticated workspace. This repository is a customized portfolio/learning version: it adds personal branding, a natural-language command router, honest workflow-focused landing content, setup templates, tests for command parsing, and safer configuration defaults.
 
@@ -77,6 +77,3 @@ The tests cover command-to-route matching and graceful handling of unsupported c
 
 Sandeep Patra has a B.Tech background in Electronics and Telecommunication Engineering from Parala Maharaja Engineering College, with interests in full-stack development and AI-powered applications. This codebase is intended to demonstrate iterative engineering work, not to imply that third-party starter code or external APIs were authored from scratch.
 
-## Upstream acknowledgement
-
-This version was adapted from the supplied public project **[Aaren08/QuickAI-SaaS](https://github.com/Aaren08/QuickAI-SaaS)**. The supplied archive did not contain a project-level `LICENSE` file. The additions and modifications in this version are documented here, but that absence does not grant redistribution rights to upstream code. Confirm the upstream repository's current licensing/permission before publishing a derivative repository, and retain all required notices.
